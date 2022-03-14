@@ -13,10 +13,7 @@ kode tag untuk judul <h1>
 kode tag unutk memformat teks <b> <i> <mark> <strong>
 ![gambar 3](screenshoot/ss3.jpeg)
 
-###### Menambah gambar
-kode tag untuk menambah gambar <img  src="Logo_UPB.png"  title="Logo  Univeritas  Pelita  Bangsa">
+###### Menambah gambar dan menambah hyperlink
+kode tag untuk menambah gambar dan hyperlink ![Tux, the Linux mascot](/assets/images/tux.png)
 ![gmabar 4](screenshoot/ss4.jpeg)
-
-###### Menambah hyperlink
-kode tag untuk menambah hyperlink <a  href="halaman2.html">Halaman  2</a>
 ![gambar 5](screenshot/ss5.jpeg)
