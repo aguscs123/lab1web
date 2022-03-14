@@ -6,7 +6,7 @@ kode tag untuk paragraf adalah <p>
 ![Gambar 1](screenshoot/ss1.jpeg)
 
 #### Membuat judul
-kode tag untuk judul <h1> dan <h2>
+kode tag untuk judul <h1>
 ![gambar 2](screenshoot/ss2.jpeg)
 
 ##### Memformat teks
